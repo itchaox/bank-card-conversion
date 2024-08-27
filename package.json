@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@lark-opdev/block-basekit-server-api": "1.0.4-alpha.19",
+    "bankcard": "^3.1.1",
     "iconv-lite": "^0.6.3"
   }
 }
