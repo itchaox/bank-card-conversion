@@ -1,3 +1,11 @@
+/*
+ * @Version    : v1.00
+ * @Author     : Wang Chao
+ * @Date       : 2024-08-18 09:52
+ * @LastAuthor : Wang Chao
+ * @LastTime   : 2024-09-14 11:15
+ * @desc       :
+ */
 // FIXME 银行卡号解析
 
 import { basekit, FieldType, field, FieldComponent, FieldCode } from '@lark-opdev/block-basekit-server-api';
@@ -52,7 +60,8 @@ basekit.addField({
     type: FieldType.Object,
     extra: {
       icon: {
-        light: 'https://lf3-static.bytednsdoc.com/obj/eden-cn/eqgeh7upeubqnulog/chatbot.svg',
+        light:
+          'https://lf3-static.bytednsdoc.com/obj/eden-cn/abjayvoz/ljhwZthlaukjlkulzlp/2024H2/yinhangka.png?x-resource-account=public',
       },
       properties: [
         {
